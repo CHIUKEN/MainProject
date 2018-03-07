@@ -7,7 +7,7 @@ namespace MainProject
     {
         static void Main(string[] args)
         {
-            Class1 c = new Class1();
+            Person c = new Person();
             Console.WriteLine("Hello World!");
         }
     }
